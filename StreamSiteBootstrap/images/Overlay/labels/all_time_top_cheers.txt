@@ -1,0 +1,1 @@
+dragonvvar: 1000, dragonvvar: 500, dom_althor: 200, itzdonnied: 5, ryth0m: 5
