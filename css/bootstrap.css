@@ -69,11 +69,8 @@ div.block3{
   font-weight: lighter;
 }
 .background {
-  background-image: url("Background.png");
-  background-color: forestgreen;
   height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: forestgreen url("Background.png") no-repeat center;
   background-size: cover;
 }
 @-ms-viewport {
