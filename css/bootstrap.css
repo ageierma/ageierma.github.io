@@ -50,31 +50,6 @@ html {
   -ms-overflow-style: scrollbar;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-div.block1{
-  padding-top: 100px;
-  padding-left: 100px;
-  font-size: 32px;
-  font-weight: lighter;
-}
-div.block2{
-  padding-top: 100px;
-  padding-left: 100px;
-  font-size: 32px;
-  font-weight: lighter;
-}
-div.block3{
-  padding-top: 100px;
-  padding-left: 100px;
-  font-size: 32px;
-  font-weight: lighter;
-}
-div.background {
-  height: 100%;
-  background-image: url("Background.png");
-  background-color: forestgreen;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 @-ms-viewport {
   width: device-width;
 }
@@ -94,11 +69,34 @@ body {
   text-align: left;
   background-color: #fff;
 }
-
+.background {
+  height: 100%;
+  background-image: url("Background.png");
+  background-color: forestgreen;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 [tabindex="-1"]:focus {
   outline: 0 !important;
 }
-
+div.block1{
+  padding-top: 100px;
+  padding-left: 100px;
+  font-size: 32px;
+  font-weight: lighter;
+}
+div.block2{
+  padding-top: 100px;
+  padding-left: 100px;
+  font-size: 32px;
+  font-weight: lighter;
+}
+div.block3 {
+  padding-top: 100px;
+  padding-left: 100px;
+  font-size: 32px;
+  font-weight: lighter;
+}
 hr {
   box-sizing: content-box;
   height: 0;
