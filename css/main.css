@@ -29,44 +29,47 @@ body {
     outline: 0 !important;
 }
 .bg{
-    background: #0b2e13 url("images/bg.jpg") no-repeat center;
+    background: #0b2e13 url("images/bg.jpg") repeat center;
     padding: 0;
     height: fit-content;
     width: 1920px;
-    min-height: fit-content;
-    min-width: fit-content;
-    max-height: 1080px;
+    min-height: 1080px;
+    min-width: 1080px;
+    max-height: 4000px;
     max-width: 1920px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
 }
-.container{
-    padding: 0;
-    margin: 0;
+div h1{
+    color: white;
+    margin-left: 15px;
+    padding-top: 100px;
+    font-size: 72px;
 }
-div.block1{
-    min-height: fit-content;
-    text-align: center;
-    font-weight: bolder;
+div.header h1{
+    padding-top: 0;
 }
-div.block2{
-    min-height: fit-content;
-    text-align: center;
-    font-weight: lighter;
+div h2{
+    color: white;
+    margin-left: 15px;
+    padding-top: 7px;
+    font-size: 52px;
 }
-div.block3 {
-    min-height: fit-content;
-    text-align: center;
-    font-weight: lighter;
+div p{
+    color: white;
+    margin-left: 15px;
+    padding-top: 7px;
+    font-size: 38px;
 }
 .header {
     min-height: max-content;
     max-height: 1080px;
-    text-align: center;
+    text-align: left;
     color: white;
     font-size: 72px;
+    margin-left: 10px;
 }
 .bg-dark{
     background-color: #192916;
@@ -78,4 +81,10 @@ i{
 i.social{
     horiz-align: right;
     text-align: center;
+}
+.container
+{
+    min-height: 400px;
+    padding: 0;
+    margin: 0;
 }
