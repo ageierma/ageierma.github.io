@@ -2,8 +2,279 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abc15f54-0bf0-468e-937a-a180b603c9ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/av.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/av.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/av_nobox.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/av_nobox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/Background.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Background.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.idea/nt-sp-dl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/.idea/nt-sp-dl.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/Untitled-1.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/Untitled-1.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1.ai" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1.ai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1_1_56x56.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1_1_56x56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1_28x28 (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1_28x28 (1).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1_28x28.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1_28x28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet1_2_112x112.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet1_2_112x112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet2.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet2_112x112.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet2_112x112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet2_1_56x56.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet2_1_56x56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet2_2_28x28.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet2_2_28x28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet3.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet3_1_56x56.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet3_1_56x56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet3_28x28.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet3_28x28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Emotes/emotet3_2_112x112.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Emotes/emotet3_2_112x112.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/30day_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/30day_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Layer 7.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Layer 7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Layer 8.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Layer 8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Blank 2.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Blank 2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Blank.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Blank.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Latest Donation.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Latest Donation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Latest Follower.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Latest Follower.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Latest Sub.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Latest Sub.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Now Playing.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Now Playing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Panels/Panel - Top Donation.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Panels/Panel - Top Donation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/Discord.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/Discord.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/Facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/Facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/Instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/Instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/PSN.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/PSN.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/Snapchat.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/Snapchat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/Twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/Twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/XBOX.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/XBOX.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/Social Icons/YouTube.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/Social Icons/YouTube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/all_time_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/all_time_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donation_goal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donation_goal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donationtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donationtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donationtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donationtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donationtrain_latest_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donationtrain_latest_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donationtrain_latest_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donationtrain_latest_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/donationtrain_total_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/donationtrain_total_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/followtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/followtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/followtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/followtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/followtrain_latest_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/followtrain_latest_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_youtube_superchats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_youtube_superchats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_top_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_top_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/30day_youtube_superchat_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/30day_youtube_superchat_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_youtube_superchats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_youtube_superchats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/all_time_top_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/all_time_top_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donation_goal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donation_goal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donationtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donationtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donationtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donationtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donationtrain_latest_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donationtrain_latest_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donationtrain_latest_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donationtrain_latest_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/donationtrain_total_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/donationtrain_total_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/followtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/followtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/followtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/followtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/followtrain_latest_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/followtrain_latest_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_youtube_superchats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_youtube_superchats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_top_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_top_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/monthly_youtube_superchat_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/monthly_youtube_superchat_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_resubscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_resubscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_youtube_sponsor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_youtube_sponsor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_youtube_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_youtube_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/most_recent_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/most_recent_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_follower_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_follower_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_followers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_resubscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_resubscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_youtube_sponsor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_youtube_sponsor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_youtube_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_youtube_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_most_recent_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_most_recent_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_subscribers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_subscribers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_youtube_superchats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_youtube_superchats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_top_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_top_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_sponsor_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_sponsor_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_sponsors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_sponsors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_subscribers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_subscribers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_superchat_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_superchat_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/session_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/session_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/subtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/subtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/subtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/subtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/subtrain_latest_sub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/subtrain_latest_sub.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_follower_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_follower_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_subscriber_score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_subscriber_score.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_youtube_sponsor_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_youtube_sponsor_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_youtube_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_youtube_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/total_youtube_superchat_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/total_youtube_superchat_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_youtube_superchats.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_youtube_superchats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_youtube_superchatter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_youtube_superchatter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_top_youtube_superchatters.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_top_youtube_superchatters.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/labels/weekly_youtube_superchat_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/labels/weekly_youtube_superchat_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/monthly_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/monthly_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/most_recent_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/most_recent_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/most_recent_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/most_recent_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/most_recent_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/most_recent_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/most_recent_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/most_recent_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/ol.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/ol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/ol.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/ol.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/ol_new.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/ol_new.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_follower_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_follower_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_followers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_followers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_most_recent_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_most_recent_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_most_recent_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_most_recent_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_most_recent_follower.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_most_recent_follower.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_most_recent_subscriber.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_most_recent_subscriber.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_subscribers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_subscribers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/session_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/session_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/social-strip.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/social-strip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/subtrain_clock.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/subtrain_clock.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/subtrain_counter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/subtrain_counter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/subtrain_latest_sub.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/subtrain_latest_sub.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/total_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/total_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/total_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/total_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/total_follower_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/total_follower_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/total_subscriber_count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/total_subscriber_count.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/total_subscriber_score.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/total_subscriber_score.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/webcam.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/webcam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_cheer_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_cheer_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_donation_amount.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_donation_amount.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_cheerer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_cheerer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_cheerers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_cheerers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_cheers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_cheers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_donations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_donations.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_donator.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_donator.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Overlay/weekly_top_donators.txt" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Overlay/weekly_top_donators.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/images/emotet1_28.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/images/emotet1_28.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/images/emotet2_56.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/images/emotet2_56.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/images/images/emotet1_28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/images/images/emotet1_28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/images/images/nt-av-dl.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/images/images/nt-av-dl.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/images/nt-av-dl.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/images/nt-av-dl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt-og-pg_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt-og-pg_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_about.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_about.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_chat.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_chat.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_discord.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_discord.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_donate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_donate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_facebook.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_facebook.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_goals.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_goals.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_hof.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_hof.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_instagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_instagram.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_links.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_links.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_other.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_other.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_schedule.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_schedule.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_snapchat.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_snapchat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_specs.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_specs.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_twitter.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_twitter.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Profile Graphics/nt_youtube.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Profile Graphics/nt_youtube.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-alerts-dl.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-alerts-dl.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-bits-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-bits-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-bits.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-bits.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-donate.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-donate.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-donation-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-donation-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-follow-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-follow-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-follow.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-follow.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-follow2-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-follow2-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-host-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-host-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-host.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-host.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-sub-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-sub-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Alerts/nt-sub.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Alerts/nt-sub.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/BRB.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/BRB.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/END.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/END.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/ST.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/ST.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/nt-brb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/nt-brb.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/nt-ending.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/nt-ending.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/nt-offline.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/nt-offline.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/nt-soon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/nt-soon.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/offline.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/offline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/raffle.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/raffle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/raffle.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/raffle.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Stream Screens/start.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/Stream Screens/start.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nt-av-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/nt-av-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nt-av-dl.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/nt-av-dl.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nt-av-dl_50x50.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/nt-av-dl_50x50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nt-pb-dl.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/nt-pb-dl.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prof.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/prof.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklogo.psd" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/sklogo.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sklogored.png" beforeDir="false" afterPath="$PROJECT_DIR$/css/images/sklogored.png" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,34 +326,43 @@
     <session id="906508697">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="1" />
+          <entry key="css" value="11" />
+          <entry key="html" value="2" />
+          <entry key="js" value="1" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="1" />
+          <entry key="CSS" value="11" />
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="336" />
-          <entry key="html" value="255" />
+          <entry key="css" value="1850" />
+          <entry key="html" value="1429" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="336" />
-          <entry key="HTML" value="255" />
+          <entry key="CSS" value="1850" />
+          <entry key="HTML" value="1429" />
         </counts>
       </usages-collector>
     </session>
@@ -92,7 +372,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1587">
+            <state relative-caret-position="-483">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -103,28 +383,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="584">
-              <caret line="46" column="68" lean-forward="true" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1771">
-              <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+              <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -135,6 +404,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -142,6 +412,15 @@
     <findStrings>
       <find>nav</find>
       <find>div</find>
+      <find>backgrou</find>
+      <find>background</find>
+      <find>.bg</find>
+      <find>.nav</find>
+      <find>bgdark</find>
+      <find>navbar</find>
+      <find>bg-dark</find>
+      <find>#343a40</find>
+      <find>main</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -151,7 +430,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/StSi.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -161,6 +442,57 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jade/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/transformers/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/transformers/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/transformers/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/node_modules/yargs/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="260" />
@@ -206,14 +538,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\augus\ageierma.github.io\css" />
       <recent name="C:\Users\augus\ageierma.github.io" />
+      <recent name="C:\Users\augus\ageierma.github.io\css\images" />
+      <recent name="C:\Users\augus\ageierma.github.io\images" />
       <recent name="C:\Users\augus\WebstormProjects\StreamSiteBootstrap\css" />
     </key>
   </component>
@@ -229,12 +564,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ageierma.github.io/index.html">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StreamSiteBootstrap/css/index.html">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -254,12 +597,18 @@
       <workItem from="1544456679064" duration="117000" />
       <workItem from="1544566634367" duration="72000" />
       <workItem from="1544631242784" duration="459000" />
-      <workItem from="1544658659817" duration="2910000" />
+      <workItem from="1544658659817" duration="4222000" />
+      <workItem from="1544663807414" duration="1341000" />
+      <workItem from="1544712130308" duration="3377000" />
+      <workItem from="1544715525535" duration="5870000" />
+      <workItem from="1544730366601" duration="691000" />
+      <workItem from="1544731614445" duration="2052000" />
+      <workItem from="1544733693040" duration="819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7958000" />
+    <option name="totallyTimeSpent" value="23420000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
@@ -311,35 +660,56 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/StSi.html" />
+    <entry file="file://$PROJECT_DIR$/css/images/Background.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="23">
+          <caret line="5" column="64703" selection-start-line="5" selection-start-column="64697" selection-end-line="5" selection-end-column="64703" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="56" column="64" selection-start-line="56" selection-start-column="60" selection-end-line="56" selection-end-column="64" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#64676#64876#2" expanded="true" />
+            <element signature="e#65106#65255#2" expanded="true" />
+            <element signature="e#65818#65964#2" expanded="true" />
+            <element signature="e#66320#66486#1" expanded="true" />
+            <element signature="e#79064#79307#2" expanded="true" />
+            <element signature="e#80319#80568#2" expanded="true" />
+            <element signature="e#110646#110836#2" expanded="true" />
+            <element signature="e#110891#111081#2" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.bundle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1587">
+        <state relative-caret-position="-483">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1771">
-          <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
+        <state relative-caret-position="584">
+          <caret line="74" column="19" selection-start-line="74" selection-start-column="19" selection-end-line="74" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="46" column="68" lean-forward="true" selection-start-line="46" selection-start-column="68" selection-end-line="46" selection-end-column="68" />
+        <state relative-caret-position="598">
+          <caret line="50" column="61" selection-start-line="50" selection-start-column="61" selection-end-line="50" selection-end-column="61" />
         </state>
       </provider>
     </entry>
