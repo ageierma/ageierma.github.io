@@ -68,7 +68,7 @@ div.block3{
   font-size: 32px;
   font-weight: lighter;
 }
-.background {
+div.background {
   height: 100%;
   background-image: url("Background.png");
   background-color: forestgreen;
