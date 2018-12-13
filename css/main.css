@@ -29,7 +29,7 @@ body {
     outline: 0 !important;
 }
 .bg{
-    background: forestgreen url("bg.jpg") no-repeat center;
+    background: forestgreen url("images/bg.jpg") no-repeat center;
     padding: 0;
     height: fit-content;
     width: 1920px;
