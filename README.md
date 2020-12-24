@@ -1,6 +1,5 @@
-# ADHDResource.cf
-IDS Spring 2019 Final Project
-_____________________________
+ageierma.github.io
+
 Contains:
 _____________________________
 
